@@ -19,7 +19,7 @@
 
 ### Technical Features
 In our project project, we used Multivariate Bi-LSTM to build the model: We used the neural network model to predict the sequence, instead of the experience to determine the supplier's policy and successfully.  
-1. Data Source  
+1. **Data Source**  
 Electronic inventory information set provided by the Enterprise
 2. **Data Preprocessing**
     - Transposing Data
@@ -31,7 +31,7 @@ Electronic inventory information set provided by the Enterprise
     - Bi-LSTM Model Building
     - Check for Model Performance
 4. **Model Testing**: Test for the model performance
-<img src="./上課筆記/cover/chap02.jpg" width="80%">
+<img src="./images/01.jpg" width="80%">
 
 ### Technological breakthroughs and innovations
 1. The use of **deep learning** to make predictions instead of intuitive experience in the past to determine the marketing policy of suppliers.
